@@ -76,6 +76,6 @@ High attrition in the 25-34 age range suggests employees in this group may seek 
 ###### 4. Review Hiring Practices in High-Attrition Education Fields:
 Assess whether employees from specific educational backgrounds have mismatched expectations and consider refining role descriptions during recruitment.
 
-Dashboard Link: https://public.tableau.com/app/profile/shashank.shekhar3512/viz/Employee_Attrition_HR/AttritionDashboard?publish=yes
+Dashboard Link: https://public.tableau.com/app/profile/shashank.shekhar3512/viz/Employee_Attrition-HR/AttritionDashboard?publish=yes
 
 ![image](https://github.com/user-attachments/assets/e509684a-1ec3-4682-86ea-1038c81b50f5)
