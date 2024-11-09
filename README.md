@@ -1,5 +1,6 @@
 # Tableau_Dashboard_Employee_Attrition_HR
 Identify patterns and trends in employee attrition within the organization.
+_**Database Source: Attrition Data Received from Trainer at Learnbay for Project Work**_
 
 ##### Problem Statement
 The purpose of this analysis is to identify patterns and trends in employee attrition within the organization. High attrition rates can be costly due to recruitment and training expenses and potential productivity losses. This analysis focuses on:
