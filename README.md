@@ -78,4 +78,4 @@ Assess whether employees from specific educational backgrounds have mismatched e
 
 Dashboard Link: https://public.tableau.com/app/profile/shashank.shekhar3512/viz/Employee_Attrition-HR/AttritionDashboard?publish=yes
 
-![image](https://github.com/user-attachments/assets/e509684a-1ec3-4682-86ea-1038c81b50f5)
+![image](https://github.com/user-attachments/assets/706b4064-df9d-4246-bd14-a4551f204fdb)
